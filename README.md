@@ -22,7 +22,7 @@ The code is based on the [`[mmdetection3d]`](https:https://github.com/open-mmlab
 
 ## Overview
 - [Model Zoo](#model-zoo)
-- [Installation](docs/INSTALL.md)
+- [Installation](docs/install.md)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
 
