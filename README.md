@@ -22,7 +22,7 @@ The code is based on the [`[mmdetection3d]`](https:https://github.com/open-mmlab
 
 ## Overview
 - [Model Zoo](#model-zoo)
-- [Installation](docs/install.md)
+- [Installation](#Installation)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
 
@@ -40,7 +40,7 @@ Selected supported methods are shown in the below table. The results are the 3D 
 
 
 ## Installation
-Please refer to [INSTALL.md](docs/INSTALL.md) for the installation of `Intensity-Based feature encoder`.
+Please refer to [INSTALL.md](docs/install.md) for the installation of `Intensity-Based feature encoder`.
 
 ## Acknowledgement
 We would like to thank the authors of[`[mmdetection3d]`](https:https://github.com/open-mmlab/mmdetection3d) for their open source release of their codebase.
