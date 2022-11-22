@@ -25,5 +25,5 @@ b. Install the dependent libraries as follows:
 ```
 pip install -r requirements.txt
 ```
-Note: Also, the `numba` and `cupy` library packages
+Note: Also, install the `numba` and `cupy` library packages for this model
 
