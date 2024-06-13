@@ -48,7 +48,7 @@ Selected supported methods are shown in the below table. The results are the 3D 
 Please refer to [install.md](doc/install.md) for the installation of `Intensity-Based feature encoder`.
 
 ## Acknowledgement
-We would like to thank the authors of[`[mmdetection3d]`](https:https://github.com/open-mmlab/mmdetection3d) for their open source release of their codebase.
+We would like to thank the authors of[`[mmdetection3d]`](https://github.com/open-mmlab/mmdetection3d) for their open source release of their codebase.
 
 ## Citation
 If you find this project useful in your research, please consider citing:
