@@ -53,11 +53,14 @@ We would like to thank the authors of[`[mmdetection3d]`](https:https://github.co
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```
-@article{PDV,
-    title={Lidar-Based Intensity-Aware Outdoor 3D Object Detection },
-    author={Ammar Yasir Naich and
-            Jesus Requena Carrion},
-    journal={-},
-    year={2022}
+@book{naich2024lidar,
+  title = {LiDAR-based intensity-aware outdoor 3D object detection},
+  author = {Naich, Ammar Yasir and Carri{\'o}n, Jes{\'u}s Requena},
+  journal = {Sensors},
+  volume = {24},
+  number = {9},
+  pages = {2942},
+  year = {2024},
+  publisher = {MDPI},
 }
 ```
