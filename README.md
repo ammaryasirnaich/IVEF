@@ -36,7 +36,7 @@ Selected supported methods are shown in the below table. The results are the 3D 
 
 |                                        Config | training time | Car@R40 | Pedestrian@R40 | Cyclist@R40  | log | download |
 |---------------------------------------------|----------:|:-------:|:-------:|:-------:|:----:|:---------:|
-| [Config](https://drive.google.com/file/d/1iV94qwyPfMCrk_q18xwpQHEHnD00LHg8/view?usp=sharing) |~16 hours| 74.26 | 47.90 | 61.94 | [log](https://drive.google.com/file/d/1pOjS4S6YHOUdk93XdFVlm9fmF15qZp5q/view?usp=share_link) | [model](https://drive.google.com/file/d/1wP5hyyhzw9g0-1EmEBJB7PSOlo5OoRl8/view?usp=share_link) |
+| [Config]([https://drive.google.com/file/d/1iV94qwyPfMCrk_q18xwpQHEHnD00LHg8/view?usp=sharing](https://drive.google.com/file/d/1-07QAJD6pbLEoamdJpAywHnq2GlHcaYb/view?usp=drive_link)) |~16 hours| 74.26 | 47.90 | 61.94 | [log]([https://drive.google.com/file/d/1pOjS4S6YHOUdk93XdFVlm9fmF15qZp5q/view?usp=share_link](https://drive.google.com/file/d/1-07QAJD6pbLEoamdJpAywHnq2GlHcaYb/view?usp=drive_link)) | [model]([https://drive.google.com/file/d/1wP5hyyhzw9g0-1EmEBJB7PSOlo5OoRl8/view?usp=share_link](https://drive.google.com/file/d/1fVKxGmT0unPrqBrOEXvmj39TRhLX6oud/view?usp=drive_link)) |
 
 
 ## Installation
